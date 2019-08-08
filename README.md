@@ -11,9 +11,10 @@ TeamLogout.xml is the gadget XML file
 Note:
 This gadget is meant to be used by Supervisors only and it will not work for Agents.
 
-Additional Info
-Finesse REST API
-Documentation for the Finesse REST API can be found in the Finesse Developer Guide.
+## Additional Info
 
-Finesse JavaScript Library
-Documentation for the Finesse JavaScript library can be found on DevNet.
+#### Finesse REST API
+Documentation for the Finesse REST API can be found in the [Finesse Developer Guide](https://developer.cisco.com/docs/finesse/#!rest-api-dev-guide).
+
+##### Finesse JavaScript Library
+Documentation for the Finesse JavaScript library can be found on [DevNet](https://developer.cisco.com/docs/finesse/#!javascript-library).
