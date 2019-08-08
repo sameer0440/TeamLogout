@@ -1,0 +1,28 @@
+/**
+ * Default attributes for gadget body.
+ */
+body {
+    background: none transparent;
+    padding: 0px;
+}
+
+.center {
+           text-align: center;
+            }
+.right {
+           text-align: right;
+           padding: 10px;
+            }
+.left {
+           text-align: left;
+           padding: 10px;
+            }
+
+.scrollable-menu {
+    height: auto;
+    max-height: 70px;
+    overflow-x: hidden;
+}
+
+
+
