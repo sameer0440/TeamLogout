@@ -1,3 +1,5 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/sameyada/TeamLogout)
+
 # TeamLogout Gadget
 There is missing functionality in CCX/CCE to logout all agents of a team by their supervisor.
 
