@@ -1,6 +1,8 @@
 # TeamLogout Gadget
 There is missing functionality in CCX/CCE to logout all agents of a team by their supervisor.
 
+![TeamLogout Gadget Screenshot](Screenshot.png)
+
 This project provides sample code for a Finesse gadget that provides this functionality for CCX and standalone Finesse.
 
 This gadget and code is to be used with Cisco Finesse, a next-generation agent desktop.
