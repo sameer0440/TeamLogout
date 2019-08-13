@@ -44,7 +44,7 @@
 								<ul id="dropdownTeamsList" class="dropdown-menu scrollable-menu" role="menu"></ul>
 						</div>
 						<div><b> User IDs: </b><span id="userlist"></span>
-						<div align='right'><button Click="finesse.modules.TeamLogout.setUserState();">Logout all agents</button></div>
+						<div align='right'><button onClick="finesse.modules.TeamLogout.setUserState();">Logout all agents</button></div>
 					    </div>	
 				    </div>	
 			    </div>
